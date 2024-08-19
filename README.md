@@ -17,8 +17,8 @@ O sistema permite ao usuário inserir dados de diferentes produtos e exibir uma 
 
 Este projeto demonstra o uso dos seguintes pilares da Programação Orientada a Objetos:
 
-2. **Herança**: As classes `UsedProduct` e `ImportedProduct` herdam da classe base `Product`, reutilizando código comum e especializando comportamentos.
-3. **Polimorfismo**: Através do uso de métodos e atributos virtuais e sobrescritos, como `PriceTag` e o atributo `Price`, o projeto demonstra polimorfismo, permitindo que o mesmo método e atributo seja utilizado de maneiras diferentes nas subclasses.
+1. **Herança**: As classes `UsedProduct` e `ImportedProduct` herdam da classe base `Product`, reutilizando código comum e especializando comportamentos.
+1. **Polimorfismo**: Através do uso de métodos e atributos virtuais e sobrescritos, como `PriceTag` e o atributo `Price`, o projeto demonstra polimorfismo, permitindo que o mesmo método e atributo seja utilizado de maneiras diferentes nas subclasses.
 
 ## Estrutura do Código
 
